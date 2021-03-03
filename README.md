@@ -16,4 +16,4 @@ This might not airbnb provide to hosts. Whatever price you set, you still need t
 * seaborn as sns
 
 ### the url of the medium post
-Medium url: https://medium.com/@kazuma1001/the-difference-between-what-hosts-expect-and-what-residents-expect-4d021e4109b8
+Medium url: https://kazuma1001.medium.com/the-difference-between-what-hosts-expect-and-what-residents-expect-4d021e4109b8
