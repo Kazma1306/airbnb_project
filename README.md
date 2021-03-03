@@ -10,7 +10,10 @@ This might not airbnb provide to hosts. Whatever price you set, you still need t
 * readme.md README file
 
 # Used Machine Learning Libraries
-numpy
-pandas
-matplotlib
-seaborn as sns
+* numpy
+* pandas
+* matplotlib
+* seaborn as sns
+
+### the url of the medium post
+Medium url: https://medium.com/@kazuma1001/the-difference-between-what-hosts-expect-and-what-residents-expect-4d021e4109b8
